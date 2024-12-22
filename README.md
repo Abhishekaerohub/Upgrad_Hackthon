@@ -1,4 +1,4 @@
-# Upgrad_Hackthon
+# Product Category Classification
 This repository applies data science, machine learning, and NLP techniques to tackle a real-world challenge in the retail sector: product categorization. Categorizing products manually is time-intensive and error-prone, making automation a key solution to enhance efficiency and accuracy.
 Introduction: Welcome to the "Ecommerce Product Categorization" hackathon, hosted by KnowledgeHut! This exciting competition challenges you to apply your data science, machine learning & NLP skills to a real-world problem in the retail sector. Get ready to demonstrate your expertise in predictive modeling and NLP while addressing the crucial time-consuming issue of product categorization.
 
